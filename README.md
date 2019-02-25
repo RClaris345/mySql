@@ -5,4 +5,4 @@ From there I had to create another function that would take the users input and 
 To upadate the quantity was not too bad I just had to set a varaible that refelcted the the stock and quantity response and then subtract them to give me the new number. Then from there used inquier to update my table with that new data. 
 The next thing was to get a price to display taking the stock * price to get my answer.
 The last thing was setting my else statement to default by saying there is not enough stock and to try again.
-Thanks for listening to my Ted Talk
+Thanks for listening to my Ted Talk.
